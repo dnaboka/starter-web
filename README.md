@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 smtht smth you do
+## Deployement
